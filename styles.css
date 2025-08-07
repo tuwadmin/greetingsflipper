@@ -8,7 +8,11 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
 }
+#basil {
+    width: 200px;
+    height: 200px;
 
+}
 /* Style the card */
 .card {
     background-color: white;
